@@ -1,3 +1,15 @@
+/**
+ * Stack Test Sample Program
+ * This program implement 4 APIs :
+ *   isEmpty()
+ *   peek()
+ *   pop
+ *   push
+ * 
+ * @author SHGAN (shgan@naver.com)
+ * @version 1.0, 26, Sep 2016 
+ */
+
 package com.example;
 import com.example.Stack;
 
