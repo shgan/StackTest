@@ -7,7 +7,7 @@
  *   push
  * 
  * @author SHGAN (shgan@naver.com)
- * @version 1.0, 06, Oct 2016 
+ * @version 1.0, 06-1, Oct 2016 
  */
 
 package com.example;
