@@ -1,5 +1,5 @@
 /**
- * Stack Test Sample Program
+ * Stack Test Sample Program (devel)
  * This program implement 4 APIs :
  *   isEmpty()
  *   peek()
