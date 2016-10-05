@@ -1,5 +1,5 @@
 /**
- * Stack Test Sample Program (master branch)
+ * Stack Test Sample Program (master-devel branch)
  * This program implement 4 APIs :
  *   isEmpty()
  *   peek()
